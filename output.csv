@@ -1,18 +1,25 @@
-'Network 1, Mar, Loan Product 1, Loan Count: 1, Total Amount: 1000.0'
-'Network 1, Mar, Loan Product 2, Loan Count: 1, Total Amount: 3098.0'
-'Network 1, Mar, Loan Product 3, Loan Count: 0, Total Amount: 0.0'
-'Network 1, Apr, Loan Product 1, Loan Count: 0, Total Amount: 0.0'
-'Network 1, Apr, Loan Product 2, Loan Count: 1, Total Amount: 1801.0'
-'Network 1, Apr, Loan Product 3, Loan Count: 0, Total Amount: 0.0'
-'Network 2, Mar, Loan Product 1, Loan Count: 1, Total Amount: 1122.0'
-'Network 2, Mar, Loan Product 2, Loan Count: 0, Total Amount: 0.0'
-'Network 2, Mar, Loan Product 3, Loan Count: 0, Total Amount: 0.0'
-'Network 2, Apr, Loan Product 1, Loan Count: 1, Total Amount: 5671.0'
-'Network 2, Apr, Loan Product 2, Loan Count: 0, Total Amount: 0.0'
-'Network 2, Apr, Loan Product 3, Loan Count: 1, Total Amount: 1747.0'
-'Network 3, Mar, Loan Product 1, Loan Count: 0, Total Amount: 0.0'
-'Network 3, Mar, Loan Product 2, Loan Count: 1, Total Amount: 2084.0'
-'Network 3, Mar, Loan Product 3, Loan Count: 0, Total Amount: 0.0'
-'Network 3, Apr, Loan Product 1, Loan Count: 0, Total Amount: 0.0'
-'Network 3, Apr, Loan Product 2, Loan Count: 0, Total Amount: 0.0'
-'Network 3, Apr, Loan Product 3, Loan Count: 1, Total Amount: 1928.0'
+Summary of Loans:
+
+Network 1 Overview:
+'Network 1, Month: Mar, Loan Product 1, Loan Count: 1, Total Amount: 1000.0'
+'Network 1, Month: Mar, Loan Product 2, Loan Count: 1, Total Amount: 3098.0'
+'Network 1, Month: Mar, Loan Product 3, Loan Count: 0, Total Amount: 0.0'
+'Network 1, Month: Apr, Loan Product 1, Loan Count: 0, Total Amount: 0.0'
+'Network 1, Month: Apr, Loan Product 2, Loan Count: 1, Total Amount: 1801.0'
+'Network 1, Month: Apr, Loan Product 3, Loan Count: 0, Total Amount: 0.0'
+
+Network 2 Overview:
+'Network 2, Month: Mar, Loan Product 1, Loan Count: 1, Total Amount: 1122.0'
+'Network 2, Month: Mar, Loan Product 2, Loan Count: 0, Total Amount: 0.0'
+'Network 2, Month: Mar, Loan Product 3, Loan Count: 0, Total Amount: 0.0'
+'Network 2, Month: Apr, Loan Product 1, Loan Count: 1, Total Amount: 5671.0'
+'Network 2, Month: Apr, Loan Product 2, Loan Count: 0, Total Amount: 0.0'
+'Network 2, Month: Apr, Loan Product 3, Loan Count: 1, Total Amount: 1747.0'
+
+Network 3 Overview:
+'Network 3, Month: Mar, Loan Product 1, Loan Count: 0, Total Amount: 0.0'
+'Network 3, Month: Mar, Loan Product 2, Loan Count: 1, Total Amount: 2084.0'
+'Network 3, Month: Mar, Loan Product 3, Loan Count: 0, Total Amount: 0.0'
+'Network 3, Month: Apr, Loan Product 1, Loan Count: 0, Total Amount: 0.0'
+'Network 3, Month: Apr, Loan Product 2, Loan Count: 0, Total Amount: 0.0'
+'Network 3, Month: Apr, Loan Product 3, Loan Count: 1, Total Amount: 1928.0'
